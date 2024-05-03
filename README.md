@@ -1,1 +1,1 @@
-# Datathon_MTY_2024
+# Datathon MTY 2024
