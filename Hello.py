@@ -1,3 +1,0 @@
-# Comentario
-print('Hello world!')
-
